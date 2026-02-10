@@ -1,4 +1,10 @@
 # 💫 About Me:
+<div align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMG9mMzVqNXhnOGt6ZnZ4MDloZWk1bTBvY2s5dTlhODF6OXp3M2t3MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/V4NSR1NG2p0KeJJyr5/giphy.gif" width="270"/>
+  <img src="https://31.media.tumblr.com/fad7e5b474f9ee645ad33e0a7583073f/tumblr_mvyhrz5KEB1s8asxho1_400.gif" width="270"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMG9mMzVqNXhnOGt6ZnZ4MDloZWk1bTBvY2s5dTlhODF6OXp3M2t3MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/V4NSR1NG2p0KeJJyr5/giphy.gif" width="270"/>
+</div>
+
 **C++** dev and **3D Artist**, blending programming, graphics and visual design to build performant interactive experiences.
 [faculab.com](http://faculab.com)
 
