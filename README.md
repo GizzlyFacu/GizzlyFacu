@@ -1,8 +1,8 @@
 # 💫 About Me:
 <div align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3h6aXRtbng0b2U1eGF4MGtkcW50cXIzNDRlcjB5YmJmZjYxMWxibCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7aD4pR1HbHJFTBF6/giphy.gif" width="200"/>
-  <img src="https://media.tenor.com/Lm6xSV3pLpMAAAAM/sesame-street-sped-up.gif" width="200"/>
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3h6aXRtbng0b2U1eGF4MGtkcW50cXIzNDRlcjB5YmJmZjYxMWxibCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7aD4pR1HbHJFTBF6/giphy.gif" height="200" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3h6aXRtbng0b2U1eGF4MGtkcW50cXIzNDRlcjB5YmJmZjYxMWxibCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7aD4pR1HbHJFTBF6/giphy.gif" width="270"/>
+  <img src="https://media.tenor.com/Lm6xSV3pLpMAAAAM/sesame-street-sped-up.gif" width="270"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3h6aXRtbng0b2U1eGF4MGtkcW50cXIzNDRlcjB5YmJmZjYxMWxibCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7aD4pR1HbHJFTBF6/giphy.gif" height="270" />
 </div>
 
 **C++** dev and **3D Artist**, blending programming, graphics and visual design to build performant interactive experiences.
