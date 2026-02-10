@@ -1,7 +1,7 @@
 # 💫 About Me:
 <div align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3h6aXRtbng0b2U1eGF4MGtkcW50cXIzNDRlcjB5YmJmZjYxMWxibCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7aD4pR1HbHJFTBF6/giphy.gif" width="270"/>
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWV3ajJzMXFycGQ3ZXc1ZjluajhlODE2cTVkemdhcW9mOHI5b3I1YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/REPL2BIiGhyFO/giphy.gif" width="270"/>
+  <img src="https://media.tenor.com/Lm6xSV3pLpMAAAAM/sesame-street-sped-up.gif" width="270"/>
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3h6aXRtbng0b2U1eGF4MGtkcW50cXIzNDRlcjB5YmJmZjYxMWxibCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7aD4pR1HbHJFTBF6/giphy.gif" width="270"/>
 </div>
 
