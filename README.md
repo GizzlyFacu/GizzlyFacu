@@ -5,8 +5,12 @@
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3h6aXRtbng0b2U1eGF4MGtkcW50cXIzNDRlcjB5YmJmZjYxMWxibCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7aD4pR1HbHJFTBF6/giphy.gif" style="height: 100px; width: auto;" />
 </div>
 
-**C++** dev and **3D Artist**, blending programming, graphics and visual design to build performant interactive experiences.
+<div align="center">
+
+**C++** dev and **3D Artist**, blending programming, graphics and visual design to build performant interactive experiences.  
 [faculab.com](http://faculab.com)
+
+</div>
 
 
 ## 🌐 Socials:
